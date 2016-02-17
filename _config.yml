@@ -10,7 +10,7 @@ title: ChaosNetz
 email: netz@koeln.ccc.de
 description: > # this means to ignore newlines until "baseurl:"
   ChaosNetz ist ein Projekt des Chaos Computer Club Cologne (C4) e.V.
-  zur Bildung und Völerverständigung
+  zur Bildung und Völkerverständigung
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chaosnetz.org" # the base hostname & protocol for your site
 twitter_username: ccc_koeln
