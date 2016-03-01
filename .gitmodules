@@ -1,3 +1,6 @@
-[submodule "assets/dist/groundwork"]
-	path = assets/dist/groundwork
+[submodule "themes/chaosnetz/static/dist/groundwork"]
+	path = themes/chaosnetz/static/dist/groundwork
 	url = https://github.com/groundworkcss/groundwork.git
+[submodule "pelican-plugins"]
+	path = pelican-plugins
+	url = https://github.com/getpelican/pelican-plugins.git

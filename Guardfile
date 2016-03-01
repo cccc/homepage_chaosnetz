@@ -57,7 +57,7 @@ guard 'livereload' do
   # file types LiveReload may optimize refresh for
   compiled_exts = extensions.values.uniq
   # watch(%r{output/.+\.(#{compiled_exts * '|'})})
-  watch(%r{output/assets/styles.+\.css})
+  watch(%r{output/theme/css.+\.css})
   watch(%r{output/.+\.html})
 
   extensions.each do |ext, type|

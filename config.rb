@@ -6,8 +6,8 @@ Encoding.default_external = 'utf-8'
 
 # Set this to the root of your project when deployed:
 http_path = "/"
-css_dir = "output/assets/styles"
-sass_dir = "assets/sass"
+css_dir = "themes/chaosnetz/static/css"
+sass_dir = "themes/chaosnetz/static/sass"
 images_dir = "assets/img"
 javascripts_dir = "assets/javascripts"
 
