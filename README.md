@@ -1,12 +1,12 @@
 install systemwide:
-entr
+entr (for dev)
 ruby
 bundler
 
 project:
 bundle install
 
-run:
+for developmet run (autorefreshes, livereload): 
 bundler exec foreman start
 
 ocra font from:

@@ -13736,20 +13736,21 @@ i {
   .third.one.leftrow {
     padding-left: 40px;
     position: fixed;
+    width: 220px;
   }
 
-  /* line 68, ../../../assets/sass/screen.sass */
+  /* line 69, ../../../assets/sass/screen.sass */
   .third.one.leftrow#contact {
     padding-top: 210px;
   }
 }
 @media (min-width: 1025px) and (min-height: 550px) {
-  /* line 73, ../../../assets/sass/screen.sass */
+  /* line 74, ../../../assets/sass/screen.sass */
   .content #text {
     margin-right: 40px;
   }
 
-  /* line 75, ../../../assets/sass/screen.sass */
+  /* line 76, ../../../assets/sass/screen.sass */
   .third.one.leftrow {
     padding-left: 20px;
   }
