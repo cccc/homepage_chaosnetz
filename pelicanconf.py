@@ -38,3 +38,10 @@ PLUGIN_PATH = 'pelican-plugins'
 PLUGINS = ['slim', ]
 
 THEME = 'themes/chaosnetz'
+
+YEAR_ARCHIVE_SAVE_AS = ''
+MONTH_ARCHIVE_SAVE_AS = ''
+DAY_ARCHIVE_SAVE_AS = ''
+TAGS_SAVE_AS = ''
+TAG_SAVE_AS = '' 
+DIRECT_TEMPLATES = []
