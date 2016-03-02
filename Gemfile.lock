@@ -93,6 +93,3 @@ DEPENDENCIES
   rack
   sass (= 3.4.9)
   slim
-
-BUNDLED WITH
-   1.11.2

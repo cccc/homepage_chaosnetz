@@ -1,7 +1,11 @@
 .sass-cache
+*.swp
+
+*.pyc
 
 bin
 lib
 include
+local
 
 output
