@@ -7,7 +7,6 @@
 // @import ../dist/groundwork/src/sass/anim/all-animations
 @import ../dist/groundwork/src/sass/responsive/all-responsive
 
-@import url(https://fonts.googleapis.com/css?family=Montserrat)
 
 body
   background-color: #1a1a1a
@@ -17,7 +16,7 @@ body
   p
     font-size: 18px
     line-height: 1.6
-    font-family: 'Montserrat', sans-serif
+    font-family: 'montserrat-regular', sans-serif
 .row
   max-width: 960px
   margin: 0 auto
@@ -42,13 +41,22 @@ body
     min-height: 100%
     background-color: #FFA333
     float: right
+    a:link, a:visited
+      color: #2c5e75
+    a:hover, a:focus
+      color: #198d98
+    p
+      font-size: 20px
+      margin-bottom: 20px
+      line-height: 1.8
 #contact
-  // padding: 15px 20px
-  padding-bottom: 10px
+  padding: 15px 20px 10px
 i
   margin-right: 0.5em
 
 @media #{$tablet}
+  #contact
+    padding: 0 0 10px
   .header
     font-size: 32px
     padding: 40px 0 10px
@@ -67,7 +75,7 @@ i
     position: fixed
     width: 280px
   .third.one.leftrow#contact
-    padding-top: 210px
+    margin-top: 210px
 
 @media #{$desktop} and (min-height: 550px)
   .content
