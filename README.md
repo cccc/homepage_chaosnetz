@@ -27,7 +27,7 @@ for working on css also install
 
     virtualenv -p python2 .
     . bin/activate
-    pip install -r requirements.text
+    pip install -r requirements.txt
 
 ## ruby environment
 
