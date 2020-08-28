@@ -1,11 +1,11 @@
 title: Chaosnetz
 save_as: index.html
 
-Wir sind eine Initiative des Kölner Chaos Computer Clubs.
+Wir sind eine Initiative des Chaos Computer Club Cologne e.V.
 
 Unser Ziel ist, Menschen zu befähigen digitale Infrastruktur zu benutzen, indem wir sie aufbauen, erweitern und Wissen darüber vermitteln.
 
-Das ChaosNetz vernetzt Projekte und soziale Räume wie beispielsweise Flüchtlingsunterkünfte.
+Durch das Projekt ChaosNetz möchten wir soziale Räume wie beispielsweise Flüchtlingsunterkünfte und weitere Projekte vernetzen.
 
 Wir helfen Dir gerne weiter, wenn Du Infrastruktur benötigst oder bauen möchtest. Melde Dich einfach bei uns:
 
